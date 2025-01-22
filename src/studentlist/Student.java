@@ -8,6 +8,7 @@ package studentlist;
  *
  * @author fagun at 12/05/2024
  * Date 22/01/2025
+ *Email: Lakhwinder.kaur
  */
 public class Student {
     private String name;
